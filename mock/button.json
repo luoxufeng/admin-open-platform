@@ -1,0 +1,1076 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": {
+    "voList": [
+      {
+        "uuid": "aeb03288400820fad8d858777f014f3bhwXu122wyn3",
+        "name": "组织机构财务修改",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_CWEDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "7f703b1c5847409ef746eee70561f6abc4Uqm32cQJA",
+        "name": "修改",
+        "permissionValue": "A_MDM_PM_BTN_YSFS_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "d1a0d4235e0bc13b65c5aa023d75a5eamS4kaoF4jaF",
+        "name": "作废",
+        "permissionValue": "A_MDM_OM_BTN_ZYKH_ZF",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "2dcb4fa7cbc1e3deaaf537397bd1e1dfxWVBKbjnebx",
+        "name": "新增",
+        "permissionValue": "A_MDM_PM_BTN_YSFS_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "f89f61599a3b28bd20b0735da4d20126uYGVm9Sy25g",
+        "name": "作废",
+        "permissionValue": "A_MDM_MDSX_MENU_WDSH_INVALID",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "0a248edf95f0b3bcf54048cf2a1f1a0aZvviyZB1tt3",
+        "name": "导出",
+        "permissionValue": "A_MDM_RZGL_BTN_CZRZGL_EXP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "bd503491ea15e0a734f0d7de83c9ce6cXn7L186SzUf",
+        "name": "明细",
+        "permissionValue": "A_MDM_PM_BTN_CPGX_DETAIL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "e76378f4d35aa6f358ef8a464dbc1e17S3GursxWnan",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_SJZD_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "cc0f9a5430eceaa5c52279c3b444da7aPCjYpv39R5n",
+        "name": "删除",
+        "permissionValue": "A_MDM_BDM_BTN_SJZD_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "b3f91343d4f57829ce34d4880b299c1basOE51AK8mj",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_SJZD_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "43ec53636b7e9f9f834f8d62922b917bVpNXbh3cAWk",
+        "name": "修改",
+        "permissionValue": "A_MDM_PM_BTN_CPGX_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "9234809dabf9c9c4301e44a474f2cbabHKmg9QgM7XO",
+        "name": "删除",
+        "permissionValue": "A_MDM_BDM_BTN_ZZFW_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "22c7ed901546bfb95aec397a178246ddHpVjpyolG8n",
+        "name": "新增",
+        "permissionValue": "A_MDM_PM_BTN_CPGX_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "967ca86d4b2d4b7c470555260ca708cdwUoX3ZVzP3B",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_ZZFW_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "dcc308736d50a89d970961aefe6b6d87mVM9h1n1uMB",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_YWLX_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "e750ed52365bffdd2101450f6b85f452FaZBorkZLbg",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_ZZFW_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "69d76266ea36f163d6725404bab342f6Zs6aUMBndfJ",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_KJMR_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "368b7a7964f495f1f29e56460f7b716dgQenJ4IX1Ec",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_KJMR_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "7b4ee16f2b0df078b68a411f186f6bb542G8r6TijES",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_YWLX_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3bb4fd6ac14953edd6e3fc066e9222104JJWIN0VE5a",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_SXLX_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "9db2851883de1855572de67e9415e2a3y9pe4LOUSQm",
+        "name": "子行政区域新增",
+        "permissionValue": "A_MDM_BDM_BTN_XZQY_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "77f83118dab0020cd90698358af854eb0TrsqkJh5Dm",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_SXLX_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "ef221544f3d6ec6bf29102ca6171b54fIa4IxdQRvMq",
+        "name": "子行政区域修改",
+        "permissionValue": "A_MDM_BDM_BTN_XZQY_ZEDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3dbdd58e9801acb8d1bf89b8f51332e7mqxiJo0npYa",
+        "name": "删除",
+        "permissionValue": "A_MDM_ZDH_BTN_RBD_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "6b633171e73ffefe604f55c08c1aa68b3bIpIVy26QB",
+        "name": "拆分",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_CF",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "ab91f17aa5e082eee6416b5e7be8c2d4jBGcLf4WH0H",
+        "name": "查询",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_CX",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "15c6ad072b1009fa6c9bae8d6d0250656C6XullR6nb",
+        "name": "注销",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_ZX",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "e59e55991bdf2e486bb258c6c7c4dceaeiS1nCMZvT0",
+        "name": "升级",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_UP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "2b73b6e2425e6c6300bf02c65edf2ef80G3f8ZV2NDB",
+        "name": "合并",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_HB",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "ed5bf732429db93681b485af8907fa3d9rt82zhrI67",
+        "name": "转让",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_ZR",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "e0c484461059bafde24def93b3539cbaEep8JG5364O",
+        "name": "变更关系",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_CHANGE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "998018b7ef28596b9c2beabd7508a83exAxHjcdwgMi",
+        "name": "批量修改",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_AEDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "e6b3e3b880a56bfe7b867b0adc1bc1acMhDkUjLlfcT",
+        "name": "修改",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "88d60c01d1555b63fe625ead97e1fde8Y8jJLjQJhbE",
+        "name": "修改",
+        "permissionValue": "A_MDM_DC_BTN_YGGL_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "310e9ef61f04b8f9b705f140a477f54fP3HImBaetcH",
+        "name": "删除",
+        "permissionValue": "A_MDM_DC_BTN_YGGL_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "b543ccefce293404f420a76b3488863bq2OQfAbF3L6",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_YGGL_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "5b8deba8698c0685405e16120522a2d5kP7J0Omdadv",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_CZ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "fe3a46c215d658cd026067432ce332a6LqueJjxPLbV",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_CZ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "8d5bf8098cfb7ed6da757969cf313c41a4gflJn9SRL",
+        "name": "删除",
+        "permissionValue": "A_MDM_BDM_BTN_CZ_EDL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "5e720525d0aeec4063a788f0aa7a547ft5H3biXF8s6",
+        "name": "删除",
+        "permissionValue": "A_MDM_ZDH_BTN_VERSION_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "28ecd6e6ca4114fcbcc9c0eb96f4c1c0q63Meon3S6v",
+        "name": "修改",
+        "permissionValue": "A_MDM_ZDH_BTN_RBD_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "bd12e83be640a1cf1daeefd6ecd45699kZ7yAMIVW7d",
+        "name": "新增",
+        "permissionValue": "A_MDM_ZDH_BTN_RBD_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "6e9beace99b827e4cd663b6f1a293ec1GmZPOkxxfBz",
+        "name": "修改",
+        "permissionValue": "A_MDM_ZDH_BTN_VERSION_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "7c7de4571537f2dcb0857110f3bd8c00RO66ERu28OV",
+        "name": "导出",
+        "permissionValue": "A_MDM_YTD_BTN_ZBKHPZ_EXP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "1ee16100c3f84627af17c7b2783f27c0ww6xNfa0Dja",
+        "name": "新增",
+        "permissionValue": "A_MDM_ZDH_BTN_VERSION_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "8798e7c64ae58f12914439f6e458a38defDDLHVBQHL",
+        "name": "修改",
+        "permissionValue": "A_MDM_YTD_BTN_QJSJPZ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "1f51f6fbf16ecf06e1cc8e4f4a65db87IAIW3J7klEP",
+        "name": "审核退回",
+        "permissionValue": "A_MDM_YTD_BTN_ZBKHPZ_TH",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "fcea6d330b37183d72b8a8c51bf0a460xOAvdu3TjlS",
+        "name": "审核通过",
+        "permissionValue": "A_MDM_YTD_BTN_ZBKHPZ_TG",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "645208184143afdf3970a75c3b889daaMQe5sKfHib6",
+        "name": "导出",
+        "permissionValue": "A_MDM_YTD_BTN_CSPZ_EXP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "4e337d2a34986dc9f793c978bcec9278cJYDcwsmrq1",
+        "name": "启用/禁用",
+        "permissionValue": "A_MDM_YTD_BTN_QJSJPZ_QYORJY",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "8ec4a90707928c3a4efa45c057f2cf1bwuQLA0oiYWf",
+        "name": "新增",
+        "permissionValue": "A_MDM_YTD_BTN_QJSJPZ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "f90ff914ef2ca891db71f7e2df05a7702TnbJrgSoPV",
+        "name": "删除",
+        "permissionValue": "A_MDM_DC_BTN_JBD_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "caaf5301dc359ced8f1cb992fdae1e8crEDJlyTPUYD",
+        "name": "修改",
+        "permissionValue": "A_MDM_YTD_BTN_CSPZ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "f6442b2b2cab99cab428cd1ebe1ba6bem3JJWwgLBaW",
+        "name": "新增",
+        "permissionValue": "A_MDM_YTD_BTN_CSPZ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "9f51d8004dc8b2d786d3e4dac30f183eItM2Q5Z2rNw",
+        "name": "导出",
+        "permissionValue": "A_MDM_DC_BTN_JBD_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "34b4a79b13d5e3332ea8d48d969285efYccl81tXLpM",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_BTN_JBD_EXP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "643cf5a932e73ab3e73b740b46bd1c16tzjQNlSYcPI",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_JBD_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "cfef29d8dbaa686b62bef1d3cbf792b9nDCrY2CTHa7",
+        "name": "新增",
+        "permissionValue": "A_MDM_MDSX_MENU_WDWH_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3422e19082120a7379541376505de76bRmnuETsCsI0",
+        "name": "删除",
+        "permissionValue": "A_MDM_MDSX_MENU_WDWH_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "04d97877ab3642779a3db6d913aabedbGcLUSwl3Uie",
+        "name": "修改",
+        "permissionValue": "A_MDM_MDSX_MENU_WDWH_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "6d532d09ed9397d4840e0d2587fb0c2faDWLXvpfYWL",
+        "name": "新增分组",
+        "permissionValue": "A_MDM_DC_MENU_WDGL_ADDG",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "5257704fbfa7784a4c038c5ed5063bc43esBiz0mYbl",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_WTJSB_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3c39f776f20b000276eb8bb5c5c1ee640jZGoZuZI7D",
+        "name": "删除",
+        "permissionValue": "A_MDM_BDM_BTN_WTJSB_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "d45aaad6ed5a3fe38a7df79d1d804c51HI534jd2vTO",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_WTJSB_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "0c58ae84cc5abfa74a8ea4ccf3ba2927NTyjPjyhtQI",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_BTN_TSWD_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3483fa36ccf92bbdceba4af7fbff807dajV2gD8ci1I",
+        "name": "批量修改",
+        "permissionValue": "A_MDM_DC_BTN_TSWD_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "a3c874ec3b95549ab015271e36d9073etoglgIAkEVa",
+        "name": "删除",
+        "permissionValue": "A_MDM_DC_BTN_TSWD_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "46858da0926463835a109e21dcfeb8f06lygkKBV2IT",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_TSWD_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "38bc7e85a092cb817ca4cb685a2a77ef3sVXPn33UJP",
+        "name": "禁用",
+        "permissionValue": "A_MDM_BDM_BTN_WDXX_UNABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "4eddc1bc360cd2f5c070ae430edbab64aU3zgGPArTG",
+        "name": "启用",
+        "permissionValue": "A_MDM_BDM_BTN_WDXX_ABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "8abe8ec6c64ac951f4d6440d88f20f4dt4DZ2IVi33Z",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_WDXX_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "26dcb3b8d7216d403bd9deddc85d5fa927GjBWxkuBa",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_WDXX_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "b7d64a3e6675bd6d96318a11666e27d5pz1q7bDV39P",
+        "name": "删除",
+        "permissionValue": "A_MDM_BDM_BTN_SJPZ_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "c716cabd95eba7a35de6490200e7b0ef5aNyWI8lKq5",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_SJPZ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "f0205df4a50b4bf720fb8396ae6ecf23YHRv7Z8PuP6",
+        "name": "批量修改",
+        "permissionValue": "A_MDM_BDM_BTN_SJPZ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "a61a536f516acd03b98364439f05968bfkbxJ3A8slV",
+        "name": "导入",
+        "permissionValue": "A_MDM_BDM_BTN_SJPZ_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "80d44c16b23492a9ab4d7cde07a0f79cXYghgPDc9Pt",
+        "name": "删除",
+        "permissionValue": "A_MDM_MDSX_MENU_SQWH_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "006b56bf35c7bb64a3c1e7d4dfea977e38uxVhjzdxB",
+        "name": "启用",
+        "permissionValue": "A_MDM_DC_BTN_JSWD_ABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "6cb9b29e061e41af89c028bdb1ac24674sVr2dlvWEv",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_MENU_YGGL_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "54c4256507fbc2f114d187f34428bc6eaWi51nbCWJu",
+        "name": "移除该组",
+        "permissionValue": "A_MDM_DC_MENU_YGGL_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "1d8934cbbe5dd82fb0ed14fbc93b3a54S5xMGKLDXRx",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_MENU_YGGL_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "aba777b51ed0d12eef3dad9aecd3b058vbvwPhcnmQo",
+        "name": "禁用",
+        "permissionValue": "A_MDM_DC_BTN_JSWD_UNABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "4954238fcecf885d484b4d04852ec3c6Knh4f3cm6Ee",
+        "name": "新增分组",
+        "permissionValue": "A_MDM_DC_MENU_YGGL_ADDG",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "7ea81daff30c21875747c439808d9d4bXxMB5M153sE",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_BTN_JSWD_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "9ddbd4cdd059ccf48363921cfc927a2eWhijEzmjYwU",
+        "name": "提交审核",
+        "permissionValue": "A_MDM_MDSX_MENU_WDWH_SUB_AUDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "138c1b0831f9dbf5b03bc2ee3c97976cJXQFWM3QkC9",
+        "name": "作废",
+        "permissionValue": "A_MDM_MDSX_MENU_SQWH_INVALID",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "5f68ab033cb65d7d53d58e50d22b40c0qB5NVv4jRQ6",
+        "name": "导出",
+        "permissionValue": "A_MDM_MDSX_MENU_SQWH_EXP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "d23857423b5d28f6a42f596483134290Zfj670t7hwB",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_BTN_PQWD_QUERY",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "eceba8365f42a00226f55158445a0254mUbNmwQoR5G",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_PQWD_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "f75414e47b91bf2e7cbc9d7d56e0c44fXobxQf0JbOT",
+        "name": "启用",
+        "permissionValue": "A_MDM_DC_BTN_PQWD_ABBLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "df1ac12cd538339c1a2926da1b6d20791H2KfHECRZ6",
+        "name": "导出",
+        "permissionValue": "A_MDM_DC_BTN_CFHB_EXP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "ba062d2969b5bb120fb87e22aa62f14dc7oEug5Mi7r",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_BTN_PQYWY_QUERY",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "216a676a0cfe19bd128d9ce4bc5f951cXuWpsTMyoo3",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_ZZYW_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "60e3be9f66516139a9c1451e3d7ee31dsPgyxzKcxxn",
+        "name": "启用",
+        "permissionValue": "A_MDM_DC_BTN_QSYWY_ABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "d6a9d3b13d624a3c6fcbff66db6e3224WUnxmrxqi7L",
+        "name": "启用",
+        "permissionValue": "A_MDM_DC_BTN_PQYWY_ABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "b8166ba15b28d223dfc9bbc6564c1ef3n6llAWz213V",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_BTN_QSYWY_QUERY",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "56fd41c8ba1da3f18495ebd52508080c4bZwon2f9WF",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_QSYWY_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "45708a8aed535279fa8f53b112292e7f3ByT8GDz87m",
+        "name": "启用",
+        "permissionValue": "A_MDM_DC_BTN_QSWD_ABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "f311ef6805af14623d97f6f48aa6ee67EcrEEX5EBFT",
+        "name": "禁用",
+        "permissionValue": "A_MDM_DC_BTN_QSWD_UNABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "52502761131352c877e2a607b7478c804i0EWSpoo4I",
+        "name": "禁用",
+        "permissionValue": "A_MDM_DC_BTN_PQYWY_UNABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3360ce9d19d58d1119e97626b9c0f4e2vJHlR1lzwuR",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_QSWD_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "a69873e3779ce7d9652bb9a717a320a9h2HuPnTRPc4",
+        "name": "禁用",
+        "permissionValue": "A_MDM_DC_BTN_PQWD_UNABBLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "ae7e7fd4e47afa2c2ca170299e8d56181MbypaGgTM7",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_MENU_WDGL_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "33311ed2413a315e258ec5e6b464c952S67iVFADkj5",
+        "name": "移除该组",
+        "permissionValue": "A_MDM_DC_MENU_WDGL_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3597ee2fc171c066e8b113f0d39f490aVHJPwuB3lgq",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_CFHB_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3ed2ad319f4ed644ef12fa0697660a56q2PasMpNC5U",
+        "name": "禁用",
+        "permissionValue": "A_MDM_DC_BTN_QSYWY_UNABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3e456b2f323303c15fa9c7c1a118c70f4nWDNDTVQRZ",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_MENU_WDGL_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "736e6e3ee8e8859ab7e718be0f66749b7pjk082lUFT",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_BTN_CFHB_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "29362ddfcb8ac7620a676bf3e085c5cfMaVSV8m7RrM",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_ZZYW_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "77ab1838f99035ed3b1d15864fc9a510Kw7mLERG1LF",
+        "name": "导入",
+        "permissionValue": "A_MDM_YTD_BTN_QJSJPZ_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "92e7dd24f63b29527836a3a10b993a54GxNz44HwR9l",
+        "name": "导出",
+        "permissionValue": "A_MDM_MDSX_MENU_WDWH_EXP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "92a0e9728146bce684077fd0325507989oNBDwejwnw",
+        "name": "导入",
+        "permissionValue": "A_MDM_MDSX_MENU_WDWH_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "ee00a383952ce23b1a2b2fa38df11b790sKOq57DOHz",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_PQYWY_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "cfe89e71ea2776eaf484b418f68687bdQjWOdtCHZfx",
+        "name": "删除",
+        "permissionValue": "A_MDM_DC_BTN_CFHB_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "04e4a6f29d69243e13abe5c2c0f14050BcgtOIR8lS5",
+        "name": "删除",
+        "permissionValue": "A_MDM_MDSX_MENU_JRPZ_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "47d0d2ae9717e9cb7ff1ad62b74329d7UXYTJFcqOv0",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_WTJXL_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "3df82c46ed2db38ba7dd050c6cbbe913LsPPyv7Pur3",
+        "name": "新增",
+        "permissionValue": "A_MDM_MDSX_MENU_SQWH_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "74cf965262f8a7f29eeda09451392d77sE5HwvGnBmN",
+        "name": "修改",
+        "permissionValue": "A_MDM_MDSX_MENU_JRPZ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "566c6ec5166259f365c70adcebe83615fqvqNKZHeiG",
+        "name": "导出",
+        "permissionValue": "A_MDM_MDSX_MENU_JRPZ_EXP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "a6d6b5f81039939c4cdcf3788b2274cbxody5hSUhRz",
+        "name": "新增",
+        "permissionValue": "A_MDM_MDSX_MENU_JRPZ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "0dddcedad311a64ca596bbb7f3d24099o7c2qb9sJRd",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_WTJXL_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "31b303a74a9aee787185d72302121fdchcJ7PPP2kmB",
+        "name": "删除",
+        "permissionValue": "A_MDM_BDM_BTN_WTJXL_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "8c46472d2848616114c3b6e5dd902bb3bSmNj6szdZY",
+        "name": "组织机构银行删除",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_YHDEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "4428accffb017810c2129acc6259965c6j3UqPKpajl",
+        "name": "删除",
+        "permissionValue": "A_MDM_BDM_BTN_XZQY_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "81a90d760cc96fc5b69397fa9ac6ee8fW7JlqeseBHS",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_XZQY_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "b6dafad6a7b3991d45c221672c02c4908dgOzzcYa8P",
+        "name": "组织机构财务批量修改",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_CWAEDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "06a89241433e283ba9d0a0ebb3940865R0W1OwLm3Cs",
+        "name": "组织机构银行修改",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_YHEDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "ec9411c948f6b5e27d7d9244ff93325bHnJMBiN2iTp",
+        "name": "组织机构银行新增",
+        "permissionValue": "A_MDM_OM_BTN_ZZJG_YHADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "f794df8ddaab31aaab9e8d2aef126c94E5Ag3c8rJQt",
+        "name": "删除",
+        "permissionValue": "A_MDM_BDM_BTN_SXLX_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "0be189a7f86bf8fcb551695b0f20cb43PKPAimKK3JV",
+        "name": "删除",
+        "permissionValue": "A_MDM_JPGS_BTN_SZ_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "925086d79667c40a200e593659a312a57muBSHRq44r",
+        "name": "新增",
+        "permissionValue": "A_MDM_TMGZ_BTN_JM_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "d040159cda03e87b47c8f721b43fdf7daodHxuv7tXi",
+        "name": "修改",
+        "permissionValue": "A_MDM_TMGZ_BTN_JM_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "926ffbb656c9f7f4b25b705beba0b557PqycVUw2ywC",
+        "name": "导入",
+        "permissionValue": "A_MDM_YTD_BTN_WDBF_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "29c5aaf18fe94d60793c43b67e841e158ARb7Sr1v9j",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_ZZYW_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "5b061cdf74510fcd978b28fa87704c04S8VI2tul656",
+        "name": "修改",
+        "permissionValue": "A_MDM_TMGZ_BTN_YJ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "8ab0e99747aa6496967f7d29320e579dHQiuBnl91Yf",
+        "name": "作废时间",
+        "permissionValue": "A_MDM_JPGS_BTN_SH_ZF",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "bacfbd161cc8f7f0114618c8e1d043adc5f2wekEctP",
+        "name": "新增",
+        "permissionValue": "A_MDM_TMGZ_BTN_EJ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "982524dadc0a461d2d78cde44239a1f0719vkjwbVw2",
+        "name": "审核通过",
+        "permissionValue": "A_MDM_JPGS_BTN_SH_TG",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "905f3733aba308d67874f66d1dc8c978EIkU7f29rPv",
+        "name": "驳回",
+        "permissionValue": "A_MDM_JPGS_BTN_SH_BH",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "a95f9989e9938124f833b484aabc1a95F7JV25Uzc9F",
+        "name": "新增",
+        "permissionValue": "A_MDM_TMGZ_BTN_SJ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "0b00c75254f4259f21c268ea8bf0200fn0hJwtrvvNj",
+        "name": "新增",
+        "permissionValue": "A_MDM_TMGZ_BTN_YJ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "05e51b6a090e69fea264c286bc8d1f3aikh1Q54z5N5",
+        "name": "修改",
+        "permissionValue": "A_MDM_TMGZ_BTN_EJ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "92d8d63f2e910b2d64dc469a4fce704al80I4poWvfc",
+        "name": "修改",
+        "permissionValue": "A_MDM_TMGZ_BTN_SJ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "04a16ffb7159ea1a61401a9ff1dfcd40ZyMV5ziU40q",
+        "name": "新增",
+        "permissionValue": "A_MDM_JPGS_BTN_SZ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "b7b68c77e49ef7aaccf246a7f9683e401E3yZvw86a6",
+        "name": "修改",
+        "permissionValue": "A_MDM_JPGS_BTN_SZ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "daa0a83ed23938e5af04d9b0221ad822h60vUh8thuK",
+        "name": "禁用",
+        "permissionValue": "A_MDM_OM_BTN_ZYKH_UNABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "553da4a4b56b8ff6e322676864b5aff7F1UkqerXfMV",
+        "name": "新增",
+        "permissionValue": "A_MDM_OM_BTN_ZYKH_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "52c0d0dc796e889068ba1359579995fdipvROkhWA4G",
+        "name": "禁用",
+        "permissionValue": "A_MDM_OM_BTN_ZYWD_UNABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "4ed9f12286be5f250bb92f57cfaf85cbc05genDnIjX",
+        "name": "启用",
+        "permissionValue": "A_MDM_OM_BTN_ZYWD_ABLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "0e5445c75bce00f511bb3f45a2ee657b6wntHNOBggc",
+        "name": "新增",
+        "permissionValue": "A_MDM_BDM_BTN_CW_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "e4ab568a943c2120840b87709251c113BfmEg2Et7ht",
+        "name": "新增",
+        "permissionValue": "A_MDM_OM_BTN_ZYWD_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "c880418ed0c5a45d4100fa025a1a8a50rtFY572bnPg",
+        "name": "修改",
+        "permissionValue": "A_MDM_BDM_BTN_CW_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "2ecb35e0c46a1ba92b24ac639e8936a2Cwzy1dj6Ma0",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_JSWD_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "fb0f6ac699c97cc28cf463ce7e5514c5HFlm1jcIOvE",
+        "name": "审核驳回",
+        "permissionValue": "A_MDM_MDSX_MENU_WDSH_REJECT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "e60e746363d3ed75db4e8b4cf0ef3794qXYixrPbTkD",
+        "name": "审核通过",
+        "permissionValue": "A_MDM_MDSX_MENU_WDSH_AUDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "822f9608580efdc495472f0393ef9b24n8N7dYm0bPh",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_BTN_GYSJPZ_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "b06b34220829c1dde1d338e37e21760axNbQXscRId8",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_BTN_GYSJPZ_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "1486318b274ad2aef7e481c4f7940280xlQvfQuzJzK",
+        "name": "删除",
+        "permissionValue": "A_MDM_DC_BTN_GYSJPZ_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "29b900f54497eac77f9766c86be6e74eeGZWuGvlTON",
+        "name": "修改",
+        "permissionValue": "A_MDM_DC_BTN_GYSJPZ_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "589fb13457c801f42b6d05829fb07a93sS8VQvPC4Vp",
+        "name": "导出",
+        "permissionValue": "A_MDM_DC_BTN_GYSJPZ_EXP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "f59df090a75bf49dab7ce8ee12b2758cTsBbtwms3rP",
+        "name": "新增",
+        "permissionValue": "A_MDM_DC_MENU_QDWD_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "ebeed270f95566cf87f9641d9360ff311UFEldnjcIS",
+        "name": "启用",
+        "permissionValue": "A_MDM_DC_MENU_QDWD_ABBLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "99790aeb06560ec173f2ca20e6347135qGhLp0nKFIv",
+        "name": "禁用",
+        "permissionValue": "A_MDM_DC_MENU_QDWD_UNABBLE",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "78f7ca1ac563a70f5ad4e8e3fa20df508Q8o35Dhdpp",
+        "name": "修改",
+        "permissionValue": "A_MDM_DC_MENU_QDWD_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "fa595c7e59221b47877975368e26a5bfaJ5oXLSj9S3",
+        "name": "导入",
+        "permissionValue": "A_MDM_OM_BTN_ZYKH_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "4ad6a383602a343e0b6d2d5963945e8fKM6SF0Ls2V6",
+        "name": "新增",
+        "permissionValue": "A_MDM_WDDA_BTN_WDBF_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "2a6958277c20a42ce01a936de3ad21541hTjs6alX9U",
+        "name": "修改",
+        "permissionValue": "A_MDM_YTD_BTN_WDBF_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "8161681a0ab854c039fe2bbefc690a44XE3nSjsr6L7",
+        "name": "导入",
+        "permissionValue": "A_MDM_DC_MENU_QDWD_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "1635c120f88396fc2650686f7f6eece8fUejt2ysgCK",
+        "name": "导入",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_IMP",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "1d02fd9d78b3730386c6896d7d443fa2iGB081ZpGDv",
+        "name": "新增",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_ADD",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "b6b36839a72202fd0e6096d72de6b43a4fc64hqSsoJ",
+        "name": "修改",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_EDIT",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "1f8fd715084488af78d90439f8f5281cNrB7PZ3AKU7",
+        "name": "审核",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_SH",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "0257dafc112f4a47186d6b902bae6662IKarMi55y2Y",
+        "name": "法人变更",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_FRBG",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "ed383931c408d2770b6951c0f4513705nJ3oaBYKKy1",
+        "name": "转让",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_ZR",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "d031c9488d830f1fa443f72e929adf7eO7dTjV9JfL8",
+        "name": "续签",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_XQ",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "370e0a06bc23cac666d0166a129cc2301HxowkyCuHQ",
+        "name": "驳回",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_BH",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "0e077ce96fef7980bc0ed14f7ebdffa2A79IWNZcSWr",
+        "name": "删除",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_DEL",
+        "relationUrl": ""
+      },
+      {
+        "uuid": "9d99316197bbad13417f0ba7125bbf4226m5zJ4WMEh",
+        "name": "导出",
+        "permissionValue": "A_MDM_WDDA_BTN_JMDA_EXP",
+        "relationUrl": ""
+      }
+    ]
+  }
+}

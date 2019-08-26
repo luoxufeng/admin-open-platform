@@ -1,0 +1,139 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": {
+    "permissions": [
+      {
+        "uuid": "01e390b0ac6e13204f3c842a35cf0a2dbWxiVg8rmZM",
+        "name": "业务类型配置",
+        "permissionValue": "A_MDM_YWPZ_MENU_YWPZ",
+        "relationUrl": "",
+        "remark": "业务类型配置",
+        "type": "menu",
+        "children": [
+          {
+            "uuid": "cfb837db3d5aecae1a47365fb1521c121VkldGWo5xf",
+            "name": "时效类型设置",
+            "parentPermissionUuid": "01e390b0ac6e13204f3c842a35cf0a2dbWxiVg8rmZM",
+            "permissionValue": "A_MDM_PM_MENU_SXLX",
+            "relationUrl": "dataDictionary/baseData/timelinessTypeSet",
+            "remark": "业务类型配置",
+            "type": "menu"
+          }
+        ]
+      },
+      {
+        "uuid": "4c3466fce9f8c4e19016faf032248569qCRO4fYKKkr",
+        "name": "运维部门配置",
+        "permissionValue": "A_MDM_YWPZ_MENU_YWBPZ",
+        "relationUrl": "",
+        "remark": "运维部门配置",
+        "type": "menu",
+        "children": [
+          {
+            "uuid": "528bf17ab3398a8a0d346754bef70007K5aBMBDSMUA",
+            "name": "运维管理组",
+            "parentPermissionUuid": "4c3466fce9f8c4e19016faf032248569qCRO4fYKKkr",
+            "permissionValue": "A_MDM_YWPZ_MENU_SXGLZ",
+            "relationUrl": "",
+            "remark": "运维管理组",
+            "type": "menu",
+            "children": [
+              {
+                "uuid": "e53fb5c5c90a1677e752eecac427d24b0plEaI1T7Oz",
+                "name": "网点自动化绑定关系管理",
+                "parentPermissionUuid": "528bf17ab3398a8a0d346754bef70007K5aBMBDSMUA",
+                "permissionValue": "A_MDM_ZDH_MENU_RBD",
+                "relationUrl": "automaticManage/automaticRelation",
+                "remark": "运维管理组",
+                "type": "menu"
+              },
+              {
+                "uuid": "a99e31331a7dd3ecbf8f87212a13c063SnbV65HCMyH",
+                "name": "系统版本管理",
+                "parentPermissionUuid": "528bf17ab3398a8a0d346754bef70007K5aBMBDSMUA",
+                "permissionValue": "A_MDM_ZDH_MENU_VERSION",
+                "relationUrl": "automaticManage/systemManage",
+                "remark": "运维管理组",
+                "type": "menu"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "urls": [
+      "dataDictionary/baseData/timelinessTypeSet",
+      "automaticManage/automaticRelation",
+      "automaticManage/systemManage"
+    ],
+    "codes": [
+      "A_MDM_GGPZ_MENU_GGPZ",
+      "A_MDM_OM_MENU_ZZJG",
+      "A_MDM_OM_MENU_YGGL",
+      "A_MDM_BDM_MENU_XZQY",
+      "A_MDM_DC_MENU_QDWD",
+      "A_MDM_YWPZ_MENU_YWBPZ",
+      "A_MDM_YWPZ_MENU_SXGLZ",
+      "A_MDM_ZDH_MENU_RBD",
+      "A_MDM_BDM_MENU_CZ",
+      "A_MDM_ZDH_MENU_VERSION",
+      "A_MDM_RZGL_MENU_CZRZGL",
+      "A_MDM_YWPZ_MENU_YWPZ",
+      "A_MDM_PM_MENU_CPGX",
+      "A_MDM_BDM_MENU_SJZD",
+      "A_MDM_PM_MENU_ZZFW",
+      "A_MDM_PM_MENU_KJMR",
+      "A_MDM_PM_MENU_SXLX",
+      "A_MDM_PM_MENU_YWLX",
+      "A_MDM_PM_MENU_YSFS",
+      "A_MDM_WLPZ_MENU_WLPZ",
+      "A_MDM_WLPZ_MENU_SXYYZ",
+      "A_MDM_YTD_MENU_QJSJPZ",
+      "A_MDM_YTD_MENU_CSPZ",
+      "A_MDM_YTD_MENU_ZBKHPZ",
+      "A_MDM_WLPZ_MENU_CZZLZ",
+      "A_MDM_DC_MENU_JBD",
+      "A_MDM_WLPZ_MENU_XZZ",
+      "A_MDM_DC_MENU_PQWD",
+      "A_MDM_DC_MENU_QSYWY",
+      "A_MDM_DC_MENU_QSWD",
+      "A_MDM_DC_MENU_PQYWY",
+      "A_MDM_DC_MENU_GYSJPZ",
+      "A_MDM_WLPZ_MENU_FWZLZ",
+      "A_MDM_BDM_MENU_WTJXL",
+      "A_MDM_BDM_MENU_WTJSB",
+      "A_MDM_BDM_MENU_SJPZ",
+      "A_MDM_DC_MENU_TSWD",
+      "A_MDM_BDM_MENU_WDXX",
+      "A_MDM_DC_MENU_WDGL",
+      "A_MDM_DC_MENU_YGGL",
+      "A_MDM_MDSX_MENU_WDWH",
+      "A_MDM_DC_MENU_JSWD",
+      "A_MDM_DC_MENU_CFHB",
+      "A_MDM_MDSX_MENU_SQWH",
+      "A_MDM_MDSX_MENU_JRPZ",
+      "A_MDM_MDSX_MENU_WDSH",
+      "A_MDM_CWPZ_MENU_CWPZ",
+      "A_MDM_CWPZ_MENU_WLZ",
+      "A_MDM_BDM_MENU_ZZYW",
+      "A_MDM_TMGZ_MENU_JM",
+      "A_MDM_TMGZ_MENU_EJ",
+      "A_MDM_TMGZ_MENU_YJ",
+      "A_MDM_TMGZ_MENU_SJ",
+      "A_MDM_CWPZ_MENU_JSZ",
+      "A_MDM_JPGS_MENU_SH",
+      "A_MDM_JPGS_MENU_CX",
+      "A_MDM_JPGS_MENU_SZ",
+      "A_MDM_OM_MENU_ZYKH",
+      "A_MDM_BDM_MENU_CW",
+      "A_MDM_OM_MENU_ZYWD",
+      "A_MDM_WLPZ_MENU_WDDA",
+      "A_MDM_WDDA_MENU_WDBF",
+      "A_MDM_WDDA_MENU_WDCX",
+      "A_MDM_WDDA_MENU_WDJX",
+      "A_MDM_WDDA_MENU_WDCXMX",
+      "A_MDM_WDDA_MENU_JMDA"
+    ]
+  }
+}

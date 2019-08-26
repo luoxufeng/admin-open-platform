@@ -1,0 +1,21 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": {
+    "list": [
+      {
+        "key": "",
+        "value": "不限定1",
+        "extend": ""
+      },
+      {
+        "key": "OUTTER",
+        "value": "营销时效"
+      },
+      {
+        "key": "INNER",
+        "value": "计费时效"
+      }
+    ]
+  }
+}
